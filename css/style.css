@@ -1,10 +1,19 @@
 body{
     background: rgb(15, 138, 209);
+    margin-left: 40px;
+    margin-right:300px;
 }
 
-nav{
-    margin: 50px;
-    text-align: center;
-    display: inline-block;
-    vertical-align: middle;
+h1{
+    color: rgb(243, 240, 74);
+    font-family:'Times New Roman';
+}
+
+header{
+    margin-top:70px;
+}
+
+img{
+    margin-bottom:-70px;
+    margin-top:50px;
 }
